@@ -1,0 +1,3 @@
+attrdict
+timm==0.9.12
+hf_transfer
